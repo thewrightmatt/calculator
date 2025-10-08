@@ -1,0 +1,9 @@
+
+changelog:
+  categories:
+    - title: Features
+      labels:
+        - '*'
+    - title: Dependencies
+      labels:
+        - dependencies
